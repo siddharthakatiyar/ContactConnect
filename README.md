@@ -50,7 +50,8 @@ To get started with the ContactConnect application, follow the instructions belo
 
      ```
      PORT=3000
-     MONGODB_URI=mongodb://localhost/contactconnect
+     CONNECTION_STRING=<your-mongodb-connection-string>
+     ACCESS_TOKEN_SECRET=<your-access-token-secret>
      ```
 
 5. Start the application:
