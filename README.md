@@ -7,7 +7,7 @@ ContactConnect is a web application that allows users to manage their contacts. 
 - User Registration: Users can create an account by providing their information.
 - User Login: Registered users can securely log in to their accounts.
 - Contact Management: Users can add, update, and delete their contacts.
-- Search Functionality: Users can search for specific contacts by name or other criteria.
+- Search Functionality: Users can search for specific contacts by contactid
 
 ## Technologies Used
 
