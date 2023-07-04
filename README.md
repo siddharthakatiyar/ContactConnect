@@ -1,6 +1,6 @@
 # ContactConnect
 
-ContactConnect is a web application that allows users to manage their contacts. It provides a secure and user-friendly platform for storing and organizing contact information. This application is built using Node.js and Express.js for the backend, along with MongoDB as the database.
+ContactConnect is a web application that allows users to manage their contacts. It provides a secure and user-friendly platform for storing and organizing contact information. This application is backend only, and it provides a REST API for managing contacts. 
 
 ## Features
 
